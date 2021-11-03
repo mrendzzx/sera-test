@@ -1,0 +1,5 @@
+PORT = 3007
+DB_CONNECT = mongodb://localhost:27017/sera-test
+TOKEN_KEY = b1c73e77882a5ceb44f0a728f02de90c728450eb894d7f13dcfa66897d619a61
+EMAIL_USERNAME = "lordkawe1111@gmail.com"
+EMAIL_PASSWORD = "xkxgfbygibmmuxdo"
